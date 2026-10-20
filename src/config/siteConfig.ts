@@ -42,13 +42,13 @@ const pages = resolvePageToggles({
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "Firefly",
+	title: "QNAir",
 
 	// 站点副标题
-	subtitle: "Demo site",
+	subtitle: "私人博客",
 
 	// 站点 URL
-	site_url: "https://firefly.cuteleaf.cn",
+	site_url: "https://blog.19870222.xyz",
 
 	// 站点描述
 	description:
